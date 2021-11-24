@@ -1,0 +1,4 @@
+mediapipe==0.8.9
+opencv-python==4.5.4.60
+pyserial=3.5
+pycaw=20181226
